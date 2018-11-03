@@ -1,7 +1,7 @@
 <?php
 
 
-# Do the auth
+# Do the auth..
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
